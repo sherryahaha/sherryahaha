@@ -2,7 +2,7 @@
 
 I'm currently pursuing the master degree at National University of Singapore ([NUS](https://www.stat.nus.edu.sg/)). Before that, I completed my B.S. degree at Renmin University of China ([RUC](http://stat.ruc.edu.cn/Home/index.htm#)). 
 
-- :nerd_face: **Interests**: Recommendation Algorithms, Data Analysis, Risk Analysis.
+- :nerd_face: **Interests**: Recommendation Algorithms, Data Analysis, Risk Modelling.
 - :muscle: **Skills**: Python, R, C#, C++, SQL, SPSS.
 - :see_no_evil: **Experiences** 
   - SDE at [Azure](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/), Microsoft
