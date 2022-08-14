@@ -1,6 +1,6 @@
 ### Hi there, this is Shiyu. 👋
 
-#### I'm currently pursuing a master degree at NUS. Before that, I completed my B.S. degree at [Renmin University of China](http://stat.ruc.edu.cn/Home/index.htm#). 
+I'm currently pursuing the master degree at National University of Singapore ([NUS](https://www.stat.nus.edu.sg/)). Before that, I completed my B.S. degree at Renmin University of China ([RUC](http://stat.ruc.edu.cn/Home/index.htm#)). 
 
 - :nerd_face: **Interests**: Recommendation Algorithms, Data Analysis, Risk Analysis.
 - :muscle: **Skills**: Python, R, C#, C++, SQL, SPSS.
